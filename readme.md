@@ -9,5 +9,5 @@ Hope you guys like it, this was a personal project in inspiration of the Snes 3D
 
 ### Download
 
-https://github.com/bubble2k16/picodrive_3ds/releases
+[https://github.com/bubble2k16/picodrive_3ds/releases](https://github.com/ayoZENIX/picodrive3D3DS/releases/tag/PicoDrive3D)
 
