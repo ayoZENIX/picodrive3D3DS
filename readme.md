@@ -9,6 +9,8 @@ I tested this only on my Old3ds and everything runs just fine ! Very Experimenta
 
 Hope you guys like it, this was a personal project in inspiration of the Snes 3D Layers Mod that i decided to share
 
+### Horonable Mentions and inspiration for this project:  GPSP-3D : https://github.com/bheppe/gpsp-3d   SNES9X_3ds : https://github.com/bheppe/snes9x_3ds
+
 ### Download
 
 [https://github.com/bubble2k16/picodrive_3ds/releases](https://github.com/ayoZENIX/picodrive3D3DS/releases/tag/PicoDrive3D)
