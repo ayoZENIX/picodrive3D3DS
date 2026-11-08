@@ -13,6 +13,10 @@ Hope you guys like it !
 GPSP-3D : https://github.com/bheppe/gpsp-3d
 SNES9X_3ds : https://github.com/bheppe/snes9x_3ds
 
+### Small Presentation video
+
+https://youtu.be/L14qd-X-Wl0
+
 ### Download
 
 [https://github.com/bubble2k16/picodrive_3ds/releases](https://github.com/ayoZENIX/picodrive3D3DS/releases/tag/PicoDrive3D)
