@@ -1,3 +1,5 @@
+![QR Code](imagens/qrcode_427183758_f37304ca77a56de1c3178410a938531d.png)
+
 
 ![Screenshot do homebrew](screenshots/download_(0).jpg)
 
