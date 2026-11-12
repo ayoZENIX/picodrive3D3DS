@@ -12,7 +12,7 @@ Hope you guys like it !
 
 ### Horonable Mentions and inspiration for this project:
 GPSP-3D : https://github.com/bheppe/gpsp-3d
-SNES9X_3ds : https://github.com/bheppe/snes9x_3ds     ![QR Code](screenshots/qr123.png)
+SNES9X_3ds : https://github.com/bheppe/snes9x_3ds 
 
 ### Small Presentation video
 
@@ -20,5 +20,7 @@ https://youtu.be/L14qd-X-Wl0
 
 ### Download
 
-[https://github.com/bubble2k16/picodrive_3ds/releases](https://github.com/ayoZENIX/picodrive3D3DS/releases/tag/PicoDrive3D)
+[https://github.com/bubble2k16/picodrive_3ds/releases](https://github.com/ayoZENIX/picodrive3D3DS/releases/tag/PicoDrive3D)      ![QR Code](screenshots/qr123.png)
+
+
 
