@@ -1,7 +1,7 @@
-![QR Code](screenshots/qrcode_427183758_f37304ca77a56de1c3178410a938531d.png)
+![QR Code](screenshots/qr123.png)
 
 
-![Screenshot do homebrew](screenshots/qr123.png)
+![Screenshot do homebrew](screenshots/download_(0).jpg)
 
 ## PicoDrive 3D (Sega Master System / Mega Drive) core - Fork Of The Original PicoDrive
 
