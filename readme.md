@@ -1,6 +1,6 @@
 ![Screenshot do homebrew](screenshots/download_(0).jpg)
 
-![QR Code](screenshots/qr123.png)
+
 
 ## PicoDrive 3D (Sega Master System / Mega Drive) core - Fork Of The Original PicoDrive
 
@@ -12,7 +12,7 @@ Hope you guys like it !
 
 ### Horonable Mentions and inspiration for this project:
 GPSP-3D : https://github.com/bheppe/gpsp-3d
-SNES9X_3ds : https://github.com/bheppe/snes9x_3ds
+SNES9X_3ds : https://github.com/bheppe/snes9x_3ds     ![QR Code](screenshots/qr123.png)
 
 ### Small Presentation video
 
